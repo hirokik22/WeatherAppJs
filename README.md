@@ -1,2 +1,2 @@
-# WeatherAppJs
-Weather Application built with Angular
+# OneWeekAtATime
+Weekly planner application built with Angular
